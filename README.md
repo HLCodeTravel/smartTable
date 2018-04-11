@@ -1,4 +1,9 @@
 # SmartTable
+
+表格的具体画的类是 TableProvider ，感觉比较复杂
+SmartTable 是所有的表格的view，总的显示view
+使用ScaleGestureDetector 和 GestureDetector 来实现监听和相应 手指滑动，放大和缩小
+
 ```
  android自动生成表格框架
 ```
